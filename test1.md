@@ -1,1 +1,1 @@
-[(this is [a] (link)](https://google.com)
+[(www.something.com)
