@@ -1,2 +1,2 @@
-![img](img.png)
-[valid link](ucsd.edu)
+![image](image.png)
+[valid link]some text(ucsd.edu)
