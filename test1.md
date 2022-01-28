@@ -1,1 +1,0 @@
-[(www.random.com)
