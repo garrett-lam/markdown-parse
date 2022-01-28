@@ -1,1 +1,1 @@
-[canvas]text ](www.canvas.com)
+[gradescope]some text with close bracket at end ](www.gradescope.com)
