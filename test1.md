@@ -1,1 +1,1 @@
-[(www.something.com)
+[(www.random.com)
